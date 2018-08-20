@@ -4,7 +4,9 @@ import java.util.Random;
 
 public class MoreArrayFun {
 	//1. Create a main method to test the other methods you write.
-	
+	public static void main(String[] args) {
+		
+	}
 	
 	
 	//2. Write a method that takes an array of Strings and prints all the Strings in the array.
